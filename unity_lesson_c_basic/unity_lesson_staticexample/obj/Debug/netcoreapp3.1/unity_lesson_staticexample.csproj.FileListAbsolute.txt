@@ -1,0 +1,13 @@
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_staticexample\obj\Debug\netcoreapp3.1\unity_lesson_staticexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_staticexample\obj\Debug\netcoreapp3.1\unity_lesson_staticexample.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_staticexample\obj\Debug\netcoreapp3.1\unity_lesson_staticexample.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_staticexample\obj\Debug\netcoreapp3.1\unity_lesson_staticexample.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_staticexample\bin\Debug\netcoreapp3.1\unity_lesson_staticexample.exe
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_staticexample\bin\Debug\netcoreapp3.1\unity_lesson_staticexample.deps.json
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_staticexample\bin\Debug\netcoreapp3.1\unity_lesson_staticexample.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_staticexample\bin\Debug\netcoreapp3.1\unity_lesson_staticexample.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_staticexample\bin\Debug\netcoreapp3.1\unity_lesson_staticexample.dll
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_staticexample\bin\Debug\netcoreapp3.1\unity_lesson_staticexample.pdb
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_staticexample\obj\Debug\netcoreapp3.1\unity_lesson_staticexample.dll
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_staticexample\obj\Debug\netcoreapp3.1\unity_lesson_staticexample.pdb
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_staticexample\obj\Debug\netcoreapp3.1\unity_lesson_staticexample.genruntimeconfig.cache

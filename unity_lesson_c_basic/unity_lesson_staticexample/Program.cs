@@ -16,6 +16,7 @@ namespace unity_lesson_staticexample
             Orc.typename = "오크 타입";
 
             Orc orc1 = new Orc();
+            //static 으로 정의된 클래스는 객체생성 불가. 인스턴스화 불가.
             Orc.SayTypename();
         }
     }

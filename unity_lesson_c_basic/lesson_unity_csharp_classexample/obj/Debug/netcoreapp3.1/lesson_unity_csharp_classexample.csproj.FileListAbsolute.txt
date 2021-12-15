@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\lesson_unity_csharp_classexample\bin\Debug\netcoreapp3.1\lesson_unity_csharp_classexample.exe
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\lesson_unity_csharp_classexample\bin\Debug\netcoreapp3.1\lesson_unity_csharp_classexample.deps.json
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\lesson_unity_csharp_classexample\bin\Debug\netcoreapp3.1\lesson_unity_csharp_classexample.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\lesson_unity_csharp_classexample\bin\Debug\netcoreapp3.1\lesson_unity_csharp_classexample.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\lesson_unity_csharp_classexample\bin\Debug\netcoreapp3.1\lesson_unity_csharp_classexample.dll
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\lesson_unity_csharp_classexample\bin\Debug\netcoreapp3.1\lesson_unity_csharp_classexample.pdb
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\lesson_unity_csharp_classexample\obj\Debug\netcoreapp3.1\lesson_unity_csharp_classexample.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\lesson_unity_csharp_classexample\obj\Debug\netcoreapp3.1\lesson_unity_csharp_classexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\lesson_unity_csharp_classexample\obj\Debug\netcoreapp3.1\lesson_unity_csharp_classexample.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\lesson_unity_csharp_classexample\obj\Debug\netcoreapp3.1\lesson_unity_csharp_classexample.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\lesson_unity_csharp_classexample\obj\Debug\netcoreapp3.1\lesson_unity_csharp_classexample.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\lesson_unity_csharp_classexample\obj\Debug\netcoreapp3.1\lesson_unity_csharp_classexample.dll
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\lesson_unity_csharp_classexample\obj\Debug\netcoreapp3.1\lesson_unity_csharp_classexample.pdb
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\lesson_unity_csharp_classexample\obj\Debug\netcoreapp3.1\lesson_unity_csharp_classexample.genruntimeconfig.cache

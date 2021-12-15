@@ -11,3 +11,4 @@ C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_sta
 C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_staticexample\obj\Debug\netcoreapp3.1\unity_lesson_staticexample.dll
 C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_staticexample\obj\Debug\netcoreapp3.1\unity_lesson_staticexample.pdb
 C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_staticexample\obj\Debug\netcoreapp3.1\unity_lesson_staticexample.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_staticexample\obj\Debug\netcoreapp3.1\unity_lesson_staticexample.csproj.AssemblyReference.cache

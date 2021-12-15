@@ -11,13 +11,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "unity_lesson_vau", "unity_l
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "unity_lesson_function", "unity_lesson_function\unity_lesson_function.csproj", "{EFBF94DD-87CA-4BF7-8BEE-977656F23EBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unity_lesson_va", "unity_lesson_va\unity_lesson_va.csproj", "{700BF9AF-98A7-4614-9202-4B4DF1ADB39F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "unity_lesson_va", "unity_lesson_va\unity_lesson_va.csproj", "{700BF9AF-98A7-4614-9202-4B4DF1ADB39F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unity_lesson_classobjectinstance", "unity_lesson_classobjectinstance\unity_lesson_classobjectinstance.csproj", "{E0A0AAB5-BBB1-46F7-9455-7573744666F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "unity_lesson_classobjectinstance", "unity_lesson_classobjectinstance\unity_lesson_classobjectinstance.csproj", "{E0A0AAB5-BBB1-46F7-9455-7573744666F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unity_lesson_instance", "unity_lesson_instance\unity_lesson_instance.csproj", "{113530A1-43A4-4E37-9FA2-54DFCE75CB3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "unity_lesson_instance", "unity_lesson_instance\unity_lesson_instance.csproj", "{113530A1-43A4-4E37-9FA2-54DFCE75CB3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unity_lesson_staticexample", "unity_lesson_staticexample\unity_lesson_staticexample.csproj", "{B55189ED-0EF7-4A70-B5B3-7C76AE97D94A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "unity_lesson_staticexample", "unity_lesson_staticexample\unity_lesson_staticexample.csproj", "{B55189ED-0EF7-4A70-B5B3-7C76AE97D94A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson_unity_csharp_classexample", "lesson_unity_csharp_classexample\lesson_unity_csharp_classexample.csproj", "{80D68AE3-244D-4E68-A288-F732C499ACD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{B55189ED-0EF7-4A70-B5B3-7C76AE97D94A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B55189ED-0EF7-4A70-B5B3-7C76AE97D94A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B55189ED-0EF7-4A70-B5B3-7C76AE97D94A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80D68AE3-244D-4E68-A288-F732C499ACD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D68AE3-244D-4E68-A288-F732C499ACD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D68AE3-244D-4E68-A288-F732C499ACD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D68AE3-244D-4E68-A288-F732C499ACD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

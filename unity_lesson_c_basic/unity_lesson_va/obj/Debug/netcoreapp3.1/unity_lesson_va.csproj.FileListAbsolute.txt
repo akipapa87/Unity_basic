@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_va\bin\Debug\netcoreapp3.1\unity_lesson_va.exe
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_va\bin\Debug\netcoreapp3.1\unity_lesson_va.deps.json
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_va\bin\Debug\netcoreapp3.1\unity_lesson_va.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_va\bin\Debug\netcoreapp3.1\unity_lesson_va.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_va\bin\Debug\netcoreapp3.1\unity_lesson_va.dll
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_va\bin\Debug\netcoreapp3.1\unity_lesson_va.pdb
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_va\obj\Debug\netcoreapp3.1\unity_lesson_va.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_va\obj\Debug\netcoreapp3.1\unity_lesson_va.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_va\obj\Debug\netcoreapp3.1\unity_lesson_va.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_va\obj\Debug\netcoreapp3.1\unity_lesson_va.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_va\obj\Debug\netcoreapp3.1\unity_lesson_va.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_va\obj\Debug\netcoreapp3.1\unity_lesson_va.dll
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_va\obj\Debug\netcoreapp3.1\unity_lesson_va.pdb
+C:\Users\User\Documents\GitHub\Unity_basic\unity_lesson_c_basic\unity_lesson_va\obj\Debug\netcoreapp3.1\unity_lesson_va.genruntimeconfig.cache
